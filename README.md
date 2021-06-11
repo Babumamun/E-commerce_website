@@ -19,12 +19,20 @@ Let me explain how does my project created, first for the homepage which one is 
  then i create a method inside productController class for search any products from the website, that’s why i created sql statement in the productMapper.xml and gave id is GetByName and create a method name getByName in the ProductDAO interface and call it in the service class. And then got the user search string and pass in the Search method in the ProductController and we can see the search result in the homepage. After that i focused on admin side so that admin can modify data  for that i create a account.jsp page. Inside account.jsp page page for the validation i used two classes one for user and another for register. If both of any field is empty or didn’t fill-up the requirements then it’s shows prompt.if admin can fill the requirement for log-in .Then admin can log in to the website. If admin log-in success then admin will see a page that’s call admin.jsp, in this page i fetch all the data from the database and show it. For this i have used same method as homepage.jsp.But in the admin.jsp have some button for add products and delete products and modify products .if admin click on add button it take on the add.jsp page, here admin can add data. To add data need to create a method in the ProductController that method will call service class and from the service class it will connect to interface method new addProduct.and this addProduct nothing but an id  from the productMapper.xml when addmin click on submit then it will show added students success to do that need to create a alert.jsp. For the modify button i kept id unchanged if admin click on modify button it will take him to update.jsp page. So do update i had to create a method inside productCotroller  the method name is update.and write sql statement in productMapper.xml then connect it in the interface name ProductDAO interface from the service class need to autowired to  ProductDAO interface. then from method update called productService.update and update the database and we can see it in the homepage, To delete data and add another method inside the productCotroller class same way created sql statement then interface method and service class and then call that productService.delete method. After delete success it will take you alert.jsp page to main page.
  
  ![image](https://user-images.githubusercontent.com/62865086/121632944-bd56e280-caa3-11eb-8de2-d0240581954a.png)
+ 
  ![image](https://user-images.githubusercontent.com/62865086/121633011-e2e3ec00-caa3-11eb-9103-c86fe39d612f.png)
+ 
  ![image](https://user-images.githubusercontent.com/62865086/121633024-ea0afa00-caa3-11eb-9d75-7e0af56360c5.png)
  ![image](https://user-images.githubusercontent.com/62865086/121633037-eecfae00-caa3-11eb-9362-086992dcdb3d.png)
+ 
  ![image](https://user-images.githubusercontent.com/62865086/121633068-f68f5280-caa3-11eb-9184-a88d6e345d07.png)
 ![image](https://user-images.githubusercontent.com/62865086/121633104-060e9b80-caa4-11eb-9f3b-65fa06ec0bce.png)
 ![image](https://user-images.githubusercontent.com/62865086/121633116-0ad34f80-caa4-11eb-8d23-9d155165d563.png)
+
+
+
+
+
 next part is for the admin 
 ![image](https://user-images.githubusercontent.com/62865086/121633221-33f3e000-caa4-11eb-9936-bd461231ad5d.png)
 ![image](https://user-images.githubusercontent.com/62865086/121633247-3f470b80-caa4-11eb-9b67-23786e24c433.png)
