@@ -22,22 +22,28 @@ Let me explain how does my project created, first for the homepage which one is 
  
  ![image](https://user-images.githubusercontent.com/62865086/121633011-e2e3ec00-caa3-11eb-9103-c86fe39d612f.png)
  
- ![image](https://user-images.githubusercontent.com/62865086/121633024-ea0afa00-caa3-11eb-9d75-7e0af56360c5.png)
- 
- 
+ ![image](https://user-images.githubusercontent.com/62865086/121633024-ea0afa00-caa3-11eb-9d75-7e0af56360c5.png
  
  ![image](https://user-images.githubusercontent.com/62865086/121633037-eecfae00-caa3-11eb-9362-086992dcdb3d.png)
  
  ![image](https://user-images.githubusercontent.com/62865086/121633068-f68f5280-caa3-11eb-9184-a88d6e345d07.png)
+ 
+ 
 ![image](https://user-images.githubusercontent.com/62865086/121633104-060e9b80-caa4-11eb-9f3b-65fa06ec0bce.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/62865086/121633116-0ad34f80-caa4-11eb-8d23-9d155165d563.png)
 
 
 
 
 
-next part is for the admin 
+                                              next part is for the admin 
+                                              
 ![image](https://user-images.githubusercontent.com/62865086/121633221-33f3e000-caa4-11eb-9936-bd461231ad5d.png)
+
+
 ![image](https://user-images.githubusercontent.com/62865086/121633247-3f470b80-caa4-11eb-9b67-23786e24c433.png)
 
 
