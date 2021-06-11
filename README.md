@@ -32,7 +32,6 @@ Let me explain how does my project created, first for the homepage which one is 
 ![image](https://user-images.githubusercontent.com/62865086/121633104-060e9b80-caa4-11eb-9f3b-65fa06ec0bce.png)
 
 
-
 ![image](https://user-images.githubusercontent.com/62865086/121633116-0ad34f80-caa4-11eb-8d23-9d155165d563.png)
 
 
