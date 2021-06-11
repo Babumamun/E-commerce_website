@@ -25,7 +25,12 @@ Let me explain how does my project created, first for the homepage which one is 
 
  ![image](https://user-images.githubusercontent.com/62865086/121633024-ea0afa00-caa3-11eb-9d75-7e0af56360c5.png)
  
+ 
+ 
   ![image](https://user-images.githubusercontent.com/62865086/121633882-74079280-caa5-11eb-8457-eff91c040b6c.png)
+  
+  
+  
  ![image](https://user-images.githubusercontent.com/62865086/121633037-eecfae00-caa3-11eb-9362-086992dcdb3d.png)
  
  ![image](https://user-images.githubusercontent.com/62865086/121633068-f68f5280-caa3-11eb-9184-a88d6e345d07.png)
